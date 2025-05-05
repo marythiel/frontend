@@ -1,0 +1,10 @@
+.single-jv_team_members .et_pb_column_1_3,.single-jv_team_members .et_pb_row .et_pb_column_1_3,.et_divi_builder.single-jv_team_members #et_builder_outer_content .et_pb_gutters3 .et_pb_column_1_3,.et_divi_builder.single-jv_team_members #et_builder_outer_content .et_pb_row .et_pb_column_1_3 {
+    width: 29.666%;
+}
+.et-db.single-jv_team_members #et-boc .jv_team_list_content .et_pb_section,.et-db.single-jv_team_members #et-boc .jv_team_list_content .et_pb_row ,.et_divi_builder.single-jv_team_members #et_builder_outer_content .jv_team_list_content .et_pb_section{
+	background : none;
+	padding: 0px;
+}
+.et-db.single-jv_team_members #et-boc .jv_team_list_content .et_pb_row ,.et_divi_builder.single-jv_team_members #et_builder_outer_content .jv_team_list_content .et_pb_row{
+	width:100%;
+}
